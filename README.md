@@ -1,9 +1,9 @@
-# Hi, I'm Léo 👋
+# Hello, I'm Waïl 👋
 
-- 20 yo french student 🇫🇷
-- ex-MMI Troyes 🦆
-- Licence Pro CIASIE, Nancy-Charlemagne 👨‍💻
-- DM me : contact.leosix@gmail.com 📧
+- 20 years old french student 🇫🇷
+- Former student of University Institute of Technology | Troyes 
+- Actually a bachelor student within the University Institute of Technology Nancy-Charlemagne 👨‍💻
+- Contact me at : wailzidane@hotmail.com 📧
 
 # 💻 Tech Stack:
 <p align="left"> 
