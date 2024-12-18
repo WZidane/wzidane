@@ -2,7 +2,8 @@
 
 - 22 years old french student 🇫🇷
 - Former student of University Institute of Technology | Troyes 
-- Actually a bachelor student within the University Institute of Technology Nancy-Charlemagne 👨‍💻
+- Former bachelor student at the University Institute of Technology Nancy-Charlemagne 👨‍💻
+- Now, a master degree student
 - Contact me at : wailzidane@hotmail.com 📧
 
 # 💻 Tech Stack:
