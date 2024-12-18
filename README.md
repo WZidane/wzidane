@@ -1,6 +1,6 @@
 # Hello, I'm Waïl 👋
 
-- 20 years old french student 🇫🇷
+- 22 years old french student 🇫🇷
 - Former student of University Institute of Technology | Troyes 
 - Actually a bachelor student within the University Institute of Technology Nancy-Charlemagne 👨‍💻
 - Contact me at : wailzidane@hotmail.com 📧
