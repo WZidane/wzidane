@@ -1,5 +1,5 @@
-# Hello, I'm Waïl 👋
-
+# Hello, I'm Waïl 👋 
+![WZidane's profile views](https://komarev.com/ghpvc/?username=WZidane&abbreviated=true&color=brightgreen)
 - 22 years old french student 🇫🇷
 - Former student of University Institute of Technology | Troyes 
 - Former bachelor student at the University Institute of Technology Nancy-Charlemagne 👨‍💻
@@ -37,3 +37,6 @@
 
 # 🔝 Top Contributions:
 ![WZidane's contributions](https://github-contributor-stats.vercel.app/api?username=WZidane&theme=chartreuse-dark&limit=5&combine_all_yearly_contributions=true&hide_border=true&no-bg=true)
+
+# Quote:
+![WZidane's quote of the day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=1)
